@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.1.1-Releases</version> 
+	<version>0.0.3-Snapshot</version> 
 	
 	<name>maven-web-application</name>
 
@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Searise Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.215.160.211:8181/searisetech/repository/Tesla-Snapshot-Project/</url>
+	      <url>http://3.80.152.19:8181/glory/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
